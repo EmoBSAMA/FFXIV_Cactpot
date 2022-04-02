@@ -46,5 +46,9 @@ PID,A,B,C,D,E,F,G,H,A1,B1,C1,D1,E1,F1,G1,H1
 ### data_3.csv（11.7MB）
 **[381,024 rows x 10 columns]**
 根据穷举出的 4 个揭露格的位置和数值，从 data_2.csv 中比较对应最优解。  
-相当于 data_2.csv 的简化版。
+相当于 **data_2.csv** 的简化版。
 
+### data_4.csv（在建）
+
+根据 **data_3.csv** 尝试推断何种揭示方式最好
+ps：感觉应该是一样的。
